@@ -27,6 +27,7 @@ background-color: aquamarine;
 main{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     /*flex: 1;*/
 }
 
