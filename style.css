@@ -38,6 +38,11 @@ text-decoration: none;
 }
 h1{
  color: aliceblue;  
+ font-size: 32px;
+}
+
+h2{
+ color: aliceblue;  
  font-size: 18px;
 }
 
