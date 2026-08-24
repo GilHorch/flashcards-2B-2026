@@ -70,3 +70,14 @@ h2{
 .cartao-verso{
     transform: rotateY(180deg);/*rotaciona o cartão 180 graus no eixo Y*/
 }
+
+
+
+@media screen and (max-width: 768px) {
+  main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /*flex: 1;*/
+}
+}
